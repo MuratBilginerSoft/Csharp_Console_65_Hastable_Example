@@ -1,0 +1,27 @@
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\Hastable Example.exe.config
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\Hastable Example.exe
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\Hastable Example.pdb
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\MigraDoc.Rendering-gdi.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\OxyPlot.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\OxyPlot.Pdf.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\PdfSharp-gdi.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\PdfSharp.Charting-gdi.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\MigraDoc.Rendering-gdi.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\OxyPlot.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\OxyPlot.Pdf.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\PdfSharp-gdi.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\PdfSharp.Charting-gdi.xml
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\de\PdfSharp-gdi.resources.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\obj\Debug\Hastable Example.csprojAssemblyReference.cache
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\obj\Debug\Hastable Example.csproj.CoreCompileInputs.cache
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\obj\Debug\Hastable Example.csproj.CopyComplete
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\obj\Debug\Hastable Example.exe
+C:\Users\mrt_b\Desktop\Hastable Example\Hastable Example\obj\Debug\Hastable Example.pdb
